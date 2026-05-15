@@ -4,3 +4,4 @@ print('c')
 print('E')
 
 print("A")
+print("B")
