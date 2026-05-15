@@ -4,3 +4,4 @@ import numpy as np
 # print('b')
 # print('bbb')
 print('c')
+print('E')
